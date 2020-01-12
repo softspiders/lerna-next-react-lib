@@ -1,6 +1,6 @@
 SOFTSPIDERS
 
-# lerna-next-with-lib
+# lerna-next-ui-lib
 
 Minimalistic template of NextJS application with library in [Lerna](https://lerna.js.org/) monorepo
 
@@ -12,6 +12,7 @@ Minimalistic template of NextJS application with library in [Lerna](https://lern
 - lib
 - next
 - template  
+- ui
 
 ## Direct ancestors - also by code
 
