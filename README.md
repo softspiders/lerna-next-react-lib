@@ -15,7 +15,7 @@ Minimalistic template of NextJS application with library in [Lerna](https://lern
 
 ## Direct ancestors - also by code
 
-- [Minimalistic template for Lerna monorepo](https://github.com/softspider/lerna)
+- [lerna-next-with-lib](https://github.com/softspider/lerna-next-with-lib)
 - [Minimalistic NextJS application](https://github.com/softspider/next.js)
 
 ---
