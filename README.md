@@ -2,17 +2,16 @@ SOFTSPIDERS
 
 # lerna-next-react-lib
 
-Minimalistic template of NextJS application with plain and react libraries in [Lerna](https://lerna.js.org/) monorepo
+Minimalistic template of NextJS application with react library in [Lerna](https://lerna.js.org/) monorepo
 
 ---
 
 ## Feature tags
 
 - lerna
-- lib
 - next
-- template  
-- ui
+- react-lib
+- template
 
 ## Direct ancestors - also by code
 
