@@ -15,8 +15,8 @@ Minimalistic template of NextJS application with react library in [Lerna](https:
 
 ## Direct ancestors - also by code
 
-- [lerna-next-with-lib](https://github.com/softspider/lerna-next-with-lib)
-- [Minimalistic NextJS application](https://github.com/softspider/next.js)
+- [lerna-next-with-lib](https://github.com/softspiders/lerna-next-with-lib)
+- [Minimalistic NextJS application](https://github.com/softspiders/next.js)
 
 ---
 
