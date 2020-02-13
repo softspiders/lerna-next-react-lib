@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # lerna-next-react-lib
 
@@ -11,6 +11,7 @@ Minimalistic template of NextJS application with react library in [Lerna](https:
 - lerna
 - next
 - react-lib
+- starter
 - template
 
 ## Direct ancestors - also by code
